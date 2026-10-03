@@ -1,0 +1,29 @@
+{
+  "series": "Say this, not that",
+  "bg": "cobalt",
+  "category": "advice",
+  "caption": "Holding someone to their word doesn’t need a raised voice. It needs a clear sentence.\n\nSave this for your next 1:1.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "table",
+      "size": 84,
+      "headline": "Holding someone accountable",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“We agreed on Friday. It’s Tuesday. What happened?”",
+          "“You always do this.”"
+        ],
+        [
+          "“What will be different next time?”",
+          "“Just try harder.”"
+        ],
+        [
+          "“I’ll check in with you on Thursday.”",
+          "“I’ll be watching you.”"
+        ]
+      ]
+    }
+  ]
+}

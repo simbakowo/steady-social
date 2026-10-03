@@ -1,0 +1,19 @@
+{
+  "series": "",
+  "bg": "azure",
+  "category": "quote",
+  "caption": "Being vague feels gentle. It isn’t.\n\nFrom Brené Brown’s Dare to Lead.\n\n#newmanager #firsttimemanager #leadership #managertips #womeninleadership",
+  "slides": [
+    {
+      "type": "quote",
+      "size": 104,
+      "lines": [
+        "Clear is kind.",
+        "Unclear is <u>unkind</u>."
+      ],
+      "by": "Brené Brown",
+      "role": "Dare to Lead"
+    }
+  ],
+  "bank_source": "https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/"
+}

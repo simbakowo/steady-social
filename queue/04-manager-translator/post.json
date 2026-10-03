@@ -1,0 +1,60 @@
+{
+  "series": "Manager translator",
+  "bg": "night",
+  "category": "behaviour",
+  "caption": "What you say and what you mean are often two different things. Your team can only hear the first one.\n\nWhich one is yours?\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“It’s fine.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“I don’t want to deal with this today.”"
+        }
+      ]
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“Just checking in.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This still hasn’t improved.”"
+        }
+      ]
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“Let me know if you need anything.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“I never told you what I expect.”"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "headline": "Say what you mean. <u>Kindly</u>.",
+      "sub": "Your team can only act on the words you actually said.",
+      "size": 116,
+      "bg": "violet"
+    }
+  ]
+}

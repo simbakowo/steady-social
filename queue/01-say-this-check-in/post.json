@@ -1,0 +1,39 @@
+{
+  "series": "Say this, not that",
+  "bg": "dawn",
+  "category": "advice",
+  "caption": "“Just checking in” makes them guess. Tell them what the talk is about in the first sentence.\n\nSave this for your next 1:1.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“I just wanted to check in…”",
+      "strike": true,
+      "size": 96
+    },
+    {
+      "type": "text",
+      "headline": "They can’t tell if this is a chat or a <u>problem</u>.",
+      "sub": "So they sit there guessing. And you still haven’t said it."
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“I want to talk about the last three deadlines.”",
+      "size": 88,
+      "bg": "violet"
+    },
+    {
+      "type": "text",
+      "headline": "Clear isn’t <u>cruel</u>.",
+      "sub": "It means they don’t have to guess why you’re there.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "Say it out loud before you say it for real.",
+      "sub": "Steady lets you practice the hard conversation first.",
+      "size": 78
+    }
+  ]
+}

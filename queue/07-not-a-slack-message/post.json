@@ -1,0 +1,31 @@
+{
+  "series": "Manager rules",
+  "bg": "aurora",
+  "category": "educational",
+  "caption": "Slack is good for plans. It is bad at tone.\n\nIf it’s on this list, say it out loud.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "text",
+      "size": 104,
+      "headline": "Things that deserve a conversation, not a <u>Slack message</u>."
+    },
+    {
+      "type": "list",
+      "size": 70,
+      "headline": "If it’s one of these, talk.",
+      "items": [
+        "The third missed deadline",
+        "Feedback on how they treat people",
+        "A change to their role",
+        "“We need to talk about your attitude”"
+      ]
+    },
+    {
+      "type": "text",
+      "size": 96,
+      "bg": "flame",
+      "headline": "Slack is good for plans. It’s bad at <u>tone</u>.",
+      "sub": "They read your message in the worst voice they can imagine."
+    }
+  ]
+}

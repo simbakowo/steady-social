@@ -1,0 +1,23 @@
+{
+  "series": "Spot the difference",
+  "bg": "berry",
+  "category": "behaviour",
+  "caption": "Nice keeps you comfortable today. Kind helps them next month.\n\nWhich one did you pick this week?\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "compare",
+      "columns": [
+        {
+          "title": "Being nice",
+          "shape": "dashed",
+          "quote": "“It’s fine, don’t worry about it.”"
+        },
+        {
+          "title": "Being kind",
+          "shape": "solid",
+          "quote": "“This isn’t working yet. Here’s what I need.”"
+        }
+      ]
+    }
+  ]
+}

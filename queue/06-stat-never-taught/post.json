@@ -1,0 +1,17 @@
+{
+  "series": "The numbers",
+  "bg": "sunset",
+  "category": "stats",
+  "caption": "If giving feedback feels hard, there’s a reason. Almost nobody is shown how before they get the job.\n\nSource: Radical Candor, The Trust Gap (2026).\n\n#newmanager #firsttimemanager #leadership #managertips #careergrowth",
+  "slides": [
+    {
+      "type": "stat",
+      "number": "70%",
+      "headline": "of managers were never taught to give feedback before they got the job.",
+      "size": 66,
+      "sub": "It’s not you. Nobody showed you.",
+      "source": "Radical Candor, The Trust Gap, 2026"
+    }
+  ],
+  "bank_source": "https://www.radicalcandor.com/trust-gap"
+}
