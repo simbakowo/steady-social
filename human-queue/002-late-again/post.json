@@ -1,0 +1,49 @@
+{
+ "series": "human",
+ "kind": "value",
+ "shape": "one-background",
+ "slides": [
+  {
+   "type": "photo",
+   "image": "her/meeting-room-02.jpg",
+   "headline": "pov: someone on your team is late again and you have to say something",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "scenes/sunset-sea.jpg",
+   "headline": "start with what you saw",
+   "sub": "“you’ve been late a few times this week.” no guessing at why",
+   "crop": 0
+  },
+  {
+   "type": "photo",
+   "image": "scenes/sunset-sea.jpg",
+   "headline": "then ask, and wait",
+   "sub": "“what’s going on?” then stop talking. let the quiet do its work",
+   "crop": 0
+  },
+  {
+   "type": "photo",
+   "image": "scenes/sunset-sea.jpg",
+   "headline": "say what you need",
+   "sub": "“i need you here by nine. can you do that?”",
+   "crop": 0
+  },
+  {
+   "type": "photo",
+   "image": "scenes/sunset-sea.jpg",
+   "headline": "agree what happens next",
+   "sub": "“let’s talk again on friday.” then really do it",
+   "crop": 0
+  },
+  {
+   "type": "photo",
+   "image": "scenes/sunset-sea.jpg",
+   "headline": "save this for the day you need it",
+   "sub": "what would you say instead?",
+   "crop": 0
+  }
+ ],
+ "caption": "four lines for the talk most new managers put off for weeks.\n\nsave it. you will need it sooner than you think.\n\n#newmanager #firsttimemanager #leadership #managertips #hardconversations"
+}

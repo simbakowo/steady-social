@@ -1,0 +1,47 @@
+{
+ "series": "human",
+ "kind": "app-inside",
+ "shape": "story",
+ "slides": [
+  {
+   "type": "photo",
+   "image": "her/meeting-room-01.jpg",
+   "headline": "how i get ready for a conversation i’m dreading",
+   "sub": "four things, the night before",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "scenes/hands-notebook.jpg",
+   "headline": "write your first sentence",
+   "sub": "only the first one. starting is the hardest part, so decide it now",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "her/train-03.jpg",
+   "headline": "pick the one thing",
+   "sub": "if they remember one thing from this talk, what is it? say it early",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "scenes/phone-in-hand.jpg",
+   "headline": "say it out loud to someone who pushes back",
+   "sub": "i use an app called Steady for this. it talks back like a real person and it’s different every time"
+  },
+  {
+   "type": "photo",
+   "image": "scenes/kitchen-morning.jpg",
+   "headline": "expect the curveball",
+   "sub": "they will say something you didn’t plan for. pick your one calm line for it now"
+  },
+  {
+   "type": "photo",
+   "image": "her/sofa-03.jpg",
+   "headline": "what do you do the night before?",
+   "place": "bottom"
+  }
+ ],
+ "caption": "the night before a hard conversation is usually worse than the conversation.\n\nthis is what i do with that evening now.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations"
+}

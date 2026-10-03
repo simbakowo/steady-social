@@ -1,0 +1,47 @@
+{
+ "series": "human",
+ "kind": "value",
+ "shape": "story",
+ "slides": [
+  {
+   "type": "photo",
+   "image": "her/street-01.jpg",
+   "headline": "things nobody told me before i became a manager",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "scenes/office-evening.jpg",
+   "headline": "your silence is an answer",
+   "sub": "say nothing about the missed deadline and your team hears that it was fine"
+  },
+  {
+   "type": "photo",
+   "image": "her/office-kitchen-03.jpg",
+   "headline": "nice is not the same as kind",
+   "sub": "nice avoids the hard talk. kind has it early, while it’s still small",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "her/office-desk-05.jpg",
+   "headline": "your old job is not your job anymore",
+   "sub": "the work that got you promoted is the work you now hand to someone else"
+  },
+  {
+   "type": "photo",
+   "image": "her/train-02.jpg",
+   "headline": "you won’t feel ready",
+   "sub": "nobody does. you get ready by having the conversation, not by waiting for the feeling",
+   "place": "bottom"
+  },
+  {
+   "type": "photo",
+   "image": "her/sofa-01.jpg",
+   "headline": "what did nobody tell you?",
+   "sub": "tell me in the comments",
+   "crop": 0
+  }
+ ],
+ "caption": "nobody hands you a manual with the job title. these are the four i learned late.\n\nwhich one took you the longest?\n\n#newmanager #firsttimemanager #leadership #managertips #newleader"
+}
