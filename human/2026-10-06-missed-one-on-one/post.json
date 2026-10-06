@@ -1,0 +1,56 @@
+{
+  "series": "human",
+  "kind": "value",
+  "shape": "one-background",
+  "early_reuse": 0,
+  "slides": [
+    {
+      "type": "photo",
+      "image": "her/car-03.jpg",
+      "headline": "what to say when they keep canceling your one on one",
+      "place": "bottom",
+      "crop": 30
+    },
+    {
+      "type": "photo",
+      "image": "scenes/crossing.jpg",
+      "headline": "name the pattern, not just today",
+      "place": "top",
+      "crop": 30,
+      "sub": "“you’ve moved our one on one a few times now.” keep it plain. don’t pile on."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/crossing.jpg",
+      "headline": "say why it matters",
+      "place": "top",
+      "crop": 30,
+      "sub": "“when it keeps getting bumped, it gets hard to use this time well.” now they know this is not about your calendar."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/crossing.jpg",
+      "headline": "ask the real question",
+      "place": "top",
+      "crop": 30,
+      "sub": "“is this time still workable, or do we need a new one?” don’t beg for scraps of time."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/crossing.jpg",
+      "headline": "set the new bar",
+      "place": "top",
+      "crop": 30,
+      "sub": "“if we keep this slot, i need us to treat it as set.” kind and clear can live in the same sentence."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/crossing.jpg",
+      "headline": "have you been letting this slide too?",
+      "place": "top",
+      "crop": 30,
+      "sub": "what would you say first?"
+    }
+  ],
+  "caption": "if they keep moving your one on one, don’t call it a small thing. it changes what your time with them means.\n\nsave this for the next time you’re tempted to let it slide.\n\n#newmanager #firsttimemanager #leadership #managertips #newleader"
+}
