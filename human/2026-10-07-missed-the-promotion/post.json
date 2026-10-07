@@ -1,0 +1,56 @@
+{
+  "series": "human",
+  "kind": "value",
+  "shape": "story",
+  "early_reuse": 0,
+  "slides": [
+    {
+      "type": "photo",
+      "image": "her/kitchen-05.jpg",
+      "headline": "what to say when they didn’t get the promotion",
+      "place": "bottom",
+      "crop": 30
+    },
+    {
+      "type": "photo",
+      "image": "scenes/desk-flatlay.jpg",
+      "headline": "don’t open with filler",
+      "place": "top",
+      "crop": 30,
+      "sub": "skip “this is hard” and “you were so close.” start clear so they don’t have to guess."
+    },
+    {
+      "type": "photo",
+      "image": "her/office-kitchen-05.jpg",
+      "headline": "say the answer first",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "“you’re not being promoted this round.” then stop. let the room be quiet for a beat."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/skyline-morning.jpg",
+      "headline": "name the gap you can see",
+      "place": "top",
+      "crop": 0,
+      "sub": "“i need to see you lead work through other people, not just do it all yourself.”"
+    },
+    {
+      "type": "photo",
+      "image": "her/lift-01.jpg",
+      "headline": "give one next step, not a blur",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "“for the next few weeks, i want you to hand off the weekly update and coach it through.”"
+    },
+    {
+      "type": "photo",
+      "image": "her/home-desk-04.jpg",
+      "headline": "what part of this talk do you put off?",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "say the first line you’re stuck on"
+    }
+  ],
+  "caption": "if you wait too long, they make up their own answer and it’s usually harsher than yours. say the kind thing out loud.\n\nsave this for the review talk you keep putting off.\n\n#newmanager #firsttimemanager #leadership #managertips #newleader"
+}
