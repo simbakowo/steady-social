@@ -1,0 +1,56 @@
+{
+  "series": "human",
+  "kind": "app",
+  "shape": "story",
+  "early_reuse": 0,
+  "slides": [
+    {
+      "type": "photo",
+      "image": "her/park-05.jpg",
+      "headline": "what to say when they missed the deadline",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "four things i do before that talk"
+    },
+    {
+      "type": "photo",
+      "image": "scenes/hands-laptop.jpg",
+      "headline": "bring one clear example",
+      "place": "top",
+      "crop": 30,
+      "sub": "pick one miss, not a list. “the draft was due tuesday and i got it thursday.”"
+    },
+    {
+      "type": "photo",
+      "image": "her/street-03.jpg",
+      "headline": "say it out loud first",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "i use an app called Steady for this. you talk to an ai person who answers like a real one and pushes back"
+    },
+    {
+      "type": "photo",
+      "image": "scenes/street-dusk.jpg",
+      "headline": "ask what got in the way",
+      "place": "top",
+      "crop": 0,
+      "sub": "try “what happened here?” then stop. let them finish before you fix it."
+    },
+    {
+      "type": "photo",
+      "image": "her/cafe-05.jpg",
+      "headline": "end with the next due date",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "be plain. “i need the next draft by noon friday. if that changes, tell me before then.”"
+    },
+    {
+      "type": "photo",
+      "image": "her/meeting-room-05.jpg",
+      "headline": "which part of this talk do you avoid?",
+      "place": "bottom",
+      "crop": 30
+    }
+  ],
+  "caption": "when the work is late, the hardest part is not sounding sharp or vague at the same time.\n\nyou can save this for the next deadline talk or send it to a manager friend.\n\nthe app is Steady, link in bio.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations"
+}
