@@ -1,0 +1,56 @@
+{
+  "series": "human",
+  "kind": "value",
+  "shape": "story",
+  "early_reuse": 0,
+  "slides": [
+    {
+      "type": "photo",
+      "image": "her/lift-02.jpg",
+      "headline": "what to say when someone pings you after hours",
+      "place": "bottom",
+      "crop": 30
+    },
+    {
+      "type": "photo",
+      "image": "scenes/park-path.jpg",
+      "headline": "don’t start with “it’s fine”",
+      "place": "top",
+      "crop": 30,
+      "sub": "if it’s not fine, don’t soften it first. that part makes the line fuzzy."
+    },
+    {
+      "type": "photo",
+      "image": "her/street-05.jpg",
+      "headline": "name the moment clearly",
+      "place": "top",
+      "crop": 0,
+      "sub": "“i saw your note come in at ten. i’m not online then unless it’s urgent.”"
+    },
+    {
+      "type": "photo",
+      "image": "scenes/platform.jpg",
+      "headline": "tell them what to do instead",
+      "place": "top",
+      "crop": 30,
+      "sub": "“if it can wait, send it for the morning. if it can’t, write urgent in the first line.”"
+    },
+    {
+      "type": "photo",
+      "image": "her/hallway-03.jpg",
+      "headline": "keep your tone warm",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "you’re not telling them off. you’re showing them when and how to reach you."
+    },
+    {
+      "type": "photo",
+      "image": "her/meeting-room-04.jpg",
+      "headline": "hard for you to say out loud too?",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "what part makes you pause?"
+    }
+  ],
+  "caption": "if you keep answering late pings right away, you teach people that your off time is still open. you can be warm and still set a stop time.\n\nsave this for the next “quick thing” at night.\n\n#newmanager #firsttimemanager #leadership #managertips #newleader"
+}
