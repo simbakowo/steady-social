@@ -1,0 +1,55 @@
+{
+  "series": "human",
+  "kind": "story",
+  "shape": "story",
+  "early_reuse": 0,
+  "slides": [
+    {
+      "type": "photo",
+      "image": "her/cafe-04.jpg",
+      "headline": "pov: you have to talk about the deadline they missed again",
+      "place": "bottom",
+      "crop": 30
+    },
+    {
+      "type": "photo",
+      "image": "scenes/empty-meeting-room.jpg",
+      "headline": "you keep hoping it fixes itself",
+      "place": "top",
+      "crop": 30,
+      "sub": "all morning you think “maybe today is not the day.” but now it’s two times, not one."
+    },
+    {
+      "type": "photo",
+      "image": "her/home-desk-01.jpg",
+      "headline": "before the call, you say it out loud",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "in Steady, you talk to an ai person who answers like a real one and pushes back. after, it shows what you missed."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/office-corridor.jpg",
+      "headline": "then comes the quiet part",
+      "place": "top",
+      "crop": 30,
+      "sub": "you say “i want to talk about the report due tuesday.” they go quiet. you wait instead of filling it."
+    },
+    {
+      "type": "photo",
+      "image": "her/park-03.jpg",
+      "headline": "it does not go neat and clean",
+      "place": "bottom",
+      "crop": 30,
+      "sub": "they say “i know, i’ve had a lot going on.” you say “i hear that. i still need friday’s date.”"
+    },
+    {
+      "type": "photo",
+      "image": "her/office-desk-01.jpg",
+      "headline": "what hard talk are you putting off right now?",
+      "place": "top",
+      "crop": 0
+    }
+  ],
+  "caption": "the talk usually feels bigger in your head than it sounds out loud. it can still be awkward and still be worth having.\n\nsave this for the next time you keep putting one off.\n\nthe app is Steady, link in bio.\n\n#newmanager #firsttimemanager #leadership #managertips #hardconversations"
+}
