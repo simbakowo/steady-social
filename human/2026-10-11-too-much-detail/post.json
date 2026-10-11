@@ -1,0 +1,56 @@
+{
+  "series": "human",
+  "kind": "value",
+  "shape": "one-background",
+  "early_reuse": 0,
+  "slides": [
+    {
+      "type": "photo",
+      "image": "her/cafe-01.jpg",
+      "headline": "what to say when updates go in circles",
+      "place": "bottom",
+      "crop": 30
+    },
+    {
+      "type": "photo",
+      "image": "scenes/cafe-window.jpg",
+      "headline": "name the real problem",
+      "place": "top",
+      "crop": 30,
+      "sub": "“i’m hearing a lot of detail, but i’m still not clear on what needs my help.”"
+    },
+    {
+      "type": "photo",
+      "image": "scenes/cafe-window.jpg",
+      "headline": "ask for the short version",
+      "place": "top",
+      "crop": 30,
+      "sub": "“give me the two minute version first. what’s done, what’s stuck, what’s next?”"
+    },
+    {
+      "type": "photo",
+      "image": "scenes/cafe-window.jpg",
+      "headline": "pull out the block",
+      "place": "top",
+      "crop": 30,
+      "sub": "if they keep circling, ask “what is the part that is not moving?” then wait."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/cafe-window.jpg",
+      "headline": "teach the new shape",
+      "place": "top",
+      "crop": 30,
+      "sub": "“next time, start with the block. then tell me what you’ve tried.” short and kind works."
+    },
+    {
+      "type": "photo",
+      "image": "scenes/cafe-window.jpg",
+      "headline": "do you have someone who talks past the point?",
+      "place": "top",
+      "crop": 30,
+      "sub": "what do you say back?"
+    }
+  ],
+  "caption": "if you’re getting long updates and still don’t know what’s blocked, you can say that plainly. the kind move is to ask for less recap and more signal.\n\nsave this for your next rambling one on one.\n\n#newmanager #firsttimemanager #leadership #managertips #newleader"
+}
