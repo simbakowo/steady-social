@@ -1,0 +1,39 @@
+{
+  "key": "say-this",
+  "series": "Say this, not that",
+  "bg": "violet",
+  "caption": "Soft starts make hard feedback harder. If you sound unsure, they’ll spend the whole talk looking for the real message.\n\nSave this for the next time you’re about to soften it.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“This might just be me, but…”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "It makes the feedback sound <u>optional</u>.",
+      "sub": "Now they can brush it off as your personal style.",
+      "size": 100
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“I’ve noticed you cut people off in meetings, and it needs to stop.”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Don’t hide the point.",
+      "sub": "Say the issue plainly, so you can actually talk about it.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "The first time you say it shouldn’t be the real time.",
+      "sub": "Practice it out loud with Steady.",
+      "size": 78
+    }
+  ]
+}
