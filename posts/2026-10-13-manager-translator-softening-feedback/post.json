@@ -1,0 +1,62 @@
+{
+  "key": "translator",
+  "series": "Manager translator",
+  "bg": "moss",
+  "caption": "Soft words feel safer in the moment. They also make people miss the point.\n\nSave this for the next talk you’re tempted to soften too much.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“No rush, but can you tighten this up?”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This wasn’t ready to send.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“Maybe next time, add a little more detail.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“I had to fill in gaps all through this.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“You’re doing great. One small note.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This part needs to change.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "text",
+      "headline": "Don’t hide the <u>point</u>.",
+      "sub": "Warm tone, clear words. Your team needs both.",
+      "size": 120
+    }
+  ]
+}
