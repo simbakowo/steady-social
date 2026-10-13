@@ -1,0 +1,44 @@
+{
+  "channel": "linkedin",
+  "key": "side",
+  "series": "Side by side",
+  "bg": "cobalt",
+  "caption": "Someone on your team asks for a raise and the answer is no.\n\n“Let me see what I can do” feels kind in the room. It costs you their trust three months later.\n\nWhich of these have you heard from your own manager?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "text",
+      "label": "The answer is no",
+      "headline": "They asked for a raise. You can’t give it.",
+      "sub": "What you say next decides if they still trust you in March.",
+      "size": 96
+    },
+    {
+      "type": "table",
+      "size": 84,
+      "headline": "Saying no to a raise",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“The answer is no for this cycle. Here is why.”",
+          "“Let me see what I can do.”"
+        ],
+        [
+          "“This is what would change the answer.”",
+          "“Maybe next year.”"
+        ],
+        [
+          "“Let’s look at it again in March.”",
+          "“It’s out of my hands.”"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "headline": "A clear no is kinder than a slow <u>maybe</u>.",
+      "sub": "They can plan around no. They can’t plan around maybe.",
+      "size": 100,
+      "bg": "plum"
+    }
+  ]
+}

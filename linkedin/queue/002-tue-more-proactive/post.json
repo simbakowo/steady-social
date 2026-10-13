@@ -1,0 +1,42 @@
+{
+  "channel": "linkedin",
+  "key": "say-this",
+  "series": "Say this, not that",
+  "bg": "dawn",
+  "first_comment": "Steady is an app for saying the hard thing out loud before the real conversation: https://steadyyy.com",
+  "caption": "“You need to be more proactive” is feedback nobody can act on.\n\nThey nod. They leave. Nothing changes, because they don’t know which moment you meant.\n\nPick one real example from the last two weeks. Say what happened, then say what you needed.\n\nWhat is the vaguest feedback you were ever given?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“You need to be more proactive.”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "They can’t act on a <u>word</u>.",
+      "sub": "Proactive how? When? They leave the room and change nothing.",
+      "size": 104
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“When the client went quiet, I needed you to call them by Wednesday.”",
+      "size": 76,
+      "bg": "violet"
+    },
+    {
+      "type": "text",
+      "headline": "Name the moment, not the <u>trait</u>.",
+      "sub": "One real example is worth more than any adjective.",
+      "size": 104
+    },
+    {
+      "type": "cta",
+      "headline": "Say it out loud before you say it for real.",
+      "sub": "Steady lets you practice the hard conversation first.",
+      "size": 78
+    }
+  ]
+}
