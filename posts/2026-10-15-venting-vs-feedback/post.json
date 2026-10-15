@@ -1,0 +1,24 @@
+{
+  "key": "difference",
+  "series": "Spot the difference",
+  "bg": "night",
+  "caption": "A lot of hard talks go wrong because we start with our feelings and never get to the change. Say the real issue out loud, then name what needs to happen next.\n\nSave this for the next time you need to be clear.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "compare",
+      "columns": [
+        {
+          "title": "Venting",
+          "shape": "blur",
+          "quote": "“I’m frustrated. This keeps happening.”"
+        },
+        {
+          "title": "Feedback",
+          "shape": "solid",
+          "quote": "“This was late again. I need it by noon next time.”"
+        }
+      ],
+      "size": 44
+    }
+  ]
+}
