@@ -1,0 +1,16 @@
+{
+  "key": "dictionary",
+  "series": "Manager dictionary",
+  "bg": "peach",
+  "caption": "Most of the time, it means nobody wants to decide while everyone is still on Zoom. Funny because it’s true, and a little painful.\n\nSave this for the next meeting where the topic somehow survives but the clock runs out.\n\n#newmanager #firsttimemanager #leadership #managertips #managerhumor",
+  "slides": [
+    {
+      "type": "definition",
+      "word": "Circle back",
+      "pos": "verb",
+      "meaning": "To end a meeting without ending the topic.",
+      "sub": "Same problem. Later calendar invite.",
+      "size": 70
+    }
+  ]
+}
