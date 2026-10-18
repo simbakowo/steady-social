@@ -1,0 +1,30 @@
+{
+  "key": "rules",
+  "series": "Manager rules",
+  "bg": "berry",
+  "caption": "A hard talk gets easier when you stop trying to sound perfect and start trying to sound clear.\n\nSave this for the next time you’re putting off a performance conversation.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "text",
+      "headline": "Manager rules for the <u>performance talk</u> you keep putting off.",
+      "size": 86
+    },
+    {
+      "type": "list",
+      "headline": "Do these four things.",
+      "items": [
+        "Say the issue in the first minute",
+        "Use one real example",
+        "Say what needs to change",
+        "End with “Can you do that?”"
+      ],
+      "size": 70
+    },
+    {
+      "type": "text",
+      "headline": "Kind is not vague.",
+      "sub": "They should leave knowing the problem and the next step.",
+      "size": 120
+    }
+  ]
+}
