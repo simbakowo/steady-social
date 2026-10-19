@@ -1,0 +1,39 @@
+{
+  "key": "say-this",
+  "series": "Say this, not that",
+  "bg": "cream",
+  "caption": "When you soften the point, they have to guess how serious it is. Say the issue plainly, then say what needs to change.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“I’m not sure if this is a big deal, but…”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "You shrink the <u>issue</u> before you say it.",
+      "sub": "Now they’re listening for your nerves, not the problem.",
+      "size": 100
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“This is a pattern I need to address.”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Don’t blur the point.",
+      "sub": "If it matters enough to say, say it plainly.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "Say it out loud before you say it for real.",
+      "sub": "Steady lets you practice the hard conversation first.",
+      "size": 78
+    }
+  ]
+}
