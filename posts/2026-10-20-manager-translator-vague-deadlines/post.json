@@ -1,0 +1,62 @@
+{
+  "key": "translator",
+  "series": "Manager translator",
+  "bg": "cobalt",
+  "caption": "Vague manager talk feels nicer in the moment, but it makes the next miss more likely. The kind move is to say the actual ask out loud.\n\nSave this for the next time you’re about to soften the point too much.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“When you get a chance, can you send that over?”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“I needed it already, and I’m trying not to sound annoyed.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“A few things slipped through.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“There were mistakes. Slow down before you hit send.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“Let’s keep an eye on this.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This is a problem now, and I need it fixed.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "text",
+      "headline": "Say the <u>actual ask</u>.",
+      "sub": "Soft words feel kind. Clear words help.",
+      "size": 120
+    }
+  ]
+}
