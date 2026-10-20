@@ -1,0 +1,41 @@
+{
+  "channel": "linkedin",
+  "key": "say-this",
+  "series": "Say this, not that",
+  "caption": "“I want to be honest with you. Your work has been missing the mark.” feels softer than silence, but it still leaves them guessing.\n\nKind is not vague. If you want change, name the work, the gap, and what good looks like next time.\n\nWhat feedback line do you catch yourself softening too much?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“I want to be honest with you. Your work has been missing the mark.”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "It sounds serious, but says <u>nothing</u>.",
+      "sub": "They hear concern, not what to change on Monday.",
+      "size": 100
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“The risks section was missing. Next time, include it on the last slide.”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Be kind and <u>specific</u>.",
+      "sub": "Say what was missing and what you need next time.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "Knowing what to say is the easy part.",
+      "sub": "Practice saying it with Steady before the real talk.",
+      "size": 78
+    }
+  ],
+  "bg": "night",
+  "first_comment": "Steady is an app for saying the hard thing out loud before the real conversation: https://steadyyy.com"
+}
