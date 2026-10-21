@@ -1,0 +1,19 @@
+{
+  "key": "quote",
+  "series": "",
+  "bg": "flame",
+  "slides": [
+    {
+      "type": "quote",
+      "lines": [
+        "It’s not mean.",
+        "It’s <u>clear</u>."
+      ],
+      "by": "Kim Scott",
+      "role": "Author of Radical Candor",
+      "size": 104
+    }
+  ],
+  "bank_source": "https://paw.princeton.edu/article/work-management-kim-scott-indeed-radical-candor",
+  "caption": "Kim Scott’s line matters because putting it off rarely feels kinder to the other person. You can be warm, steady, and still say the hard thing clearly.\n\nSave this for the next talk you keep pushing back, or send it to a manager friend.\n\n#newmanager #firsttimemanager #leadership #managertips #womeninleadership"
+}
