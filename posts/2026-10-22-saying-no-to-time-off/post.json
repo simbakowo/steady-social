@@ -1,0 +1,29 @@
+{
+  "key": "table",
+  "series": "Say this, not that",
+  "bg": "azure",
+  "caption": "You do not need a long speech when the answer is no. A short reason and a clear next step is enough.\n\nSave this for the next time you need to disappoint someone kindly.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "table",
+      "headline": "Saying no to PTO",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“I can’t approve that week off. We won’t have coverage.”",
+          "“I’m so sorry, I hate doing this.”"
+        ],
+        [
+          "“Let’s look at other dates that could work.”",
+          "“Maybe put it in anyway and we’ll see.”"
+        ],
+        [
+          "“I know that’s frustrating. I wanted to tell you today.”",
+          "“Don’t be upset with me.”"
+        ]
+      ],
+      "size": 84
+    }
+  ]
+}
