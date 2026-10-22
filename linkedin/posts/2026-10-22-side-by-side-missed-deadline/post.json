@@ -1,0 +1,43 @@
+{
+  "channel": "linkedin",
+  "key": "side",
+  "series": "Side by side",
+  "caption": "Someone misses a deadline and waits for you to bring it up.\n\nMost new managers either make it too soft or too sharp. Neither helps. You want one clear sentence, the impact, then the next step.\n\n“Walk me through what happened.” keeps it honest without turning it into a fight.\n\nWhat line is hardest for you to say when a deadline slips?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "text",
+      "label": "Missed deadline",
+      "headline": "They missed the deadline. You need to address it.",
+      "sub": "If you skip it, the team learns dates do not mean much.",
+      "size": 100
+    },
+    {
+      "type": "table",
+      "headline": "After a miss",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“The deadline passed and the work wasn’t in.”",
+          "“Hey, just checking in on this.”"
+        ],
+        [
+          "“Walk me through what happened.”",
+          "“Why did you do this?”"
+        ],
+        [
+          "“We need a plan so this doesn’t happen again.”",
+          "“I need you to be better.”"
+        ]
+      ],
+      "size": 84
+    },
+    {
+      "type": "text",
+      "headline": "Name the <u>miss</u>, stay calm, and ask for the plan.",
+      "sub": "Clear beats vague, and calm beats shame.",
+      "size": 100
+    }
+  ],
+  "bg": "flame"
+}
