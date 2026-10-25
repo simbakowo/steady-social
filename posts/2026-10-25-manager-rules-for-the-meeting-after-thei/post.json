@@ -1,0 +1,30 @@
+{
+  "key": "rules",
+  "series": "Manager rules",
+  "bg": "night",
+  "caption": "Don’t make it about their personality. Make it about the moment, the impact, and what needs to be different next time.\n\nSave this for the next time you need to talk about how someone came across.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "text",
+      "headline": "Manager rules for the meeting after their bad <u>Zoom tone</u>.",
+      "size": 86
+    },
+    {
+      "type": "list",
+      "headline": "In that talk, do these four things.",
+      "items": [
+        "Name the moment: “In yesterday’s Zoom...”",
+        "Say what they did: “You cut Sam off twice.”",
+        "Say the impact: “People shut down after.”",
+        "Ask for the fix: “Let people finish.”"
+      ],
+      "size": 70
+    },
+    {
+      "type": "text",
+      "headline": "Talk about the <u>behavior</u>, not their whole vibe.",
+      "sub": "“Rude” starts a fight. A real example starts a useful talk.",
+      "size": 100
+    }
+  ]
+}
