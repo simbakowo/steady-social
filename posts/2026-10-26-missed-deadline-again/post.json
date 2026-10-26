@@ -1,0 +1,39 @@
+{
+  "key": "say-this",
+  "series": "Say this, not that",
+  "bg": "dawn",
+  "caption": "Starting with their excuse feels gentle, but it muddies the point. Say what happened first, then give them room to answer.\n\nSave this for the deadline talk you keep putting off.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“I know things have been busy lately...”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "It starts with their <u>excuse</u>, not the issue.",
+      "sub": "Now you’re both talking around it instead of saying what happened.",
+      "size": 100
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“The last two deadlines were missed. What got in the way?”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Name the pattern first.",
+      "sub": "Kind still sounds clear.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "Knowing what to say is the easy part.",
+      "sub": "Practice saying it with Steady before the real talk.",
+      "size": 78
+    }
+  ]
+}
