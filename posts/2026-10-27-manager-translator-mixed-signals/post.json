@@ -1,0 +1,62 @@
+{
+  "key": "translator",
+  "series": "Manager translator",
+  "bg": "plum",
+  "caption": "Softening your words can feel nice in the moment. It usually just makes the other person do more guessing.\n\nSave this for the next talk you keep almost having.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“No pressure, but I need this today.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“There is pressure. I just feel bad saying it.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“Something felt a little off in that meeting.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“You interrupted me twice in front of the team.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“You’re doing great. One tiny thing.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This is not tiny, and I should say it straight.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "text",
+      "headline": "Mixed signals make <u>work</u> harder",
+      "sub": "Say the real thing, with a calm tone.",
+      "size": 100
+    }
+  ]
+}
