@@ -1,0 +1,41 @@
+{
+  "channel": "linkedin",
+  "key": "say-this",
+  "series": "Say this, not that",
+  "caption": "A lot of first-time managers soften feedback until it means nothing.\n\n“You might want to be a bit more careful” sounds kind, but it hides the actual problem.\n\nKind is not vague. Kind is saying what happened and what needs to change next time.\n\nWhat is one line you’ve said that came out softer than you meant?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“You might want to be a bit more careful.”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "It hides the <u>problem</u>.",
+      "sub": "Careful with what? They hear a tone, not a clear change.",
+      "size": 120
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“The pricing slide had errors. Check the numbers before you send it.”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Be kind and <u>specific</u>.",
+      "sub": "Say the moment, then the change you need next time.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "The first time you say it shouldn’t be the real time.",
+      "sub": "Practice it out loud with Steady.",
+      "size": 78
+    }
+  ],
+  "bg": "aurora",
+  "first_comment": "Steady is an app for saying the hard thing out loud before the real conversation: https://steadyyy.com"
+}
