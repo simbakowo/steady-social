@@ -1,0 +1,19 @@
+{
+  "key": "quote",
+  "series": "",
+  "bg": "cobalt",
+  "slides": [
+    {
+      "type": "quote",
+      "lines": [
+        "A team is not a group of people that work together.",
+        "A team is a group of people that <u>trust each other</u>."
+      ],
+      "by": "Simon Sinek",
+      "role": "Together Is Better",
+      "size": 64
+    }
+  ],
+  "bank_source": "https://penguinrandomhouse.com/books/318131/together-is-better-by-simon-sinek",
+  "caption": "From Together Is Better by Simon Sinek: trust grows when your team knows you’ll say the hard thing kindly, not let it sit and get weird.\n\nSave this for the next talk you’ve been putting off.\n\n#newmanager #firsttimemanager #leadership #managertips #womeninleadership"
+}
