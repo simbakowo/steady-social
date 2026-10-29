@@ -1,0 +1,43 @@
+{
+  "channel": "linkedin",
+  "key": "side",
+  "series": "Side by side",
+  "caption": "Someone strong on your team is already full, and you need to stop giving them every extra thing.\n\n“Can you just help this once?” sounds small. It teaches them that good work gets rewarded with more work.\n\nWhich line would be hardest for you to say out loud?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "text",
+      "label": "Extra work ask",
+      "headline": "Your most reliable person is overloaded. Someone asks you to add more.",
+      "sub": "If you say yes too fast, you make their workload your team’s normal.",
+      "size": 86
+    },
+    {
+      "type": "table",
+      "headline": "Protecting capacity",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“She’s at capacity right now.”",
+          "“She can probably squeeze it in.”"
+        ],
+        [
+          "“If this is the priority, tell me what should move.”",
+          "“Can you just help this once?”"
+        ],
+        [
+          "“I want to protect the work she already owns.”",
+          "“She’s our go-to, so give it to her.”"
+        ]
+      ],
+      "size": 84
+    },
+    {
+      "type": "text",
+      "headline": "Backing your team means saying <u>no</u> before they have to.",
+      "sub": "Do not make your best person carry everyone else’s poor planning.",
+      "size": 86
+    }
+  ],
+  "bg": "ember"
+}
