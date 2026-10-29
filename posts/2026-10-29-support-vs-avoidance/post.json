@@ -1,0 +1,24 @@
+{
+  "key": "difference",
+  "series": "Spot the difference",
+  "bg": "candy",
+  "caption": "Support is not backing away from the point. You can care about someone and still name what has to change.\n\nSave this for the next hard talk you keep putting off.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "compare",
+      "columns": [
+        {
+          "title": "Offering support",
+          "shape": "solid",
+          "quote": "“I know this is hard. We still need it fixed by Friday.”"
+        },
+        {
+          "title": "Avoiding conflict",
+          "shape": "blur",
+          "quote": "“I know things are hard, so let’s just leave it for now.”"
+        }
+      ],
+      "size": 44
+    }
+  ]
+}
