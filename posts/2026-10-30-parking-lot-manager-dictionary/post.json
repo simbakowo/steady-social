@@ -1,0 +1,16 @@
+{
+  "key": "dictionary",
+  "series": "Manager dictionary",
+  "bg": "cream",
+  "caption": "The parking lot is where hard topics go when nobody wants to say, “We’re not deciding this today.”\n\nSave this for the next meeting that ends with a very full parking lot.\n\n#newmanager #firsttimemanager #leadership #managertips #managerhumor",
+  "slides": [
+    {
+      "type": "definition",
+      "word": "Parking lot",
+      "pos": "noun",
+      "meaning": "A place where important topics wait until everyone feels brave enough to actually decide something.",
+      "sub": "Very organized avoidance.",
+      "size": 70
+    }
+  ]
+}
