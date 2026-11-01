@@ -1,0 +1,30 @@
+{
+  "key": "rules",
+  "series": "Manager rules",
+  "bg": "azure",
+  "caption": "Silence in a meeting can mean many things. Don’t guess. Ask about the moment while it’s still fresh.\n\nSave this for the one-on-one you keep putting off.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "text",
+      "headline": "Manager rules for the meeting where they went <u>quiet</u>.",
+      "size": 86
+    },
+    {
+      "type": "list",
+      "headline": "In that talk, do these four things.",
+      "items": [
+        "Name it: “You went quiet in there.”",
+        "Ask: “What was going on for you?”",
+        "Say the impact: “We needed your view.”",
+        "Set it up: “Next time, say if you disagree.”"
+      ],
+      "size": 70
+    },
+    {
+      "type": "text",
+      "headline": "Don’t fill in the story for <u>them</u>.",
+      "sub": "Ask about the silence before you decide what it meant.",
+      "size": 100
+    }
+  ]
+}
