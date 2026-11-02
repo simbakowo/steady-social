@@ -1,0 +1,39 @@
+{
+  "key": "say-this",
+  "series": "Say this, not that",
+  "bg": "aurora",
+  "caption": "A soft deadline feels nice for a second. Then you are both stuck when they read it as not urgent and you meant today. Save this for the next time you are about to water down a real due time.\n\n#newmanager #firsttimemanager #leadership #managertips #difficultconversations",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“When you get a chance, can you send me the draft?”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "It hides the <u>deadline</u>.",
+      "sub": "They hear “not urgent.” You mean “I need it today.”",
+      "size": 120
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“Please send me the draft by noon today.”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Be kind and <u>specific</u>.",
+      "sub": "Don’t make them guess how fast you need it.",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "The first time you say it shouldn’t be the real time.",
+      "sub": "Practice it out loud with Steady.",
+      "size": 78
+    }
+  ]
+}
