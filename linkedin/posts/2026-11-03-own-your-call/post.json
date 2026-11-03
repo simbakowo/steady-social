@@ -1,0 +1,41 @@
+{
+  "channel": "linkedin",
+  "key": "say-this",
+  "series": "Say this, not that",
+  "caption": "A lot of managers hide behind “we” when the call is really theirs.\n\nIt sounds safer. It also makes people feel handled instead of told the truth.\n\nTry the clear line: “I’ve decided not to approve vacation next week.” Then give the reason, without hiding.\n\nWhat’s a work sentence you’ve used because it felt safer than saying “I” ?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "swap",
+      "label": "Stop saying",
+      "quote": "“We can’t approve vacation next week.”",
+      "strike": true,
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "It hides the <u>decision</u>.",
+      "sub": "They don’t know who decided, and it can sound slippery.",
+      "size": 120
+    },
+    {
+      "type": "swap",
+      "label": "Say this",
+      "quote": "“I’ve decided not to approve vacation next week.”",
+      "size": 92
+    },
+    {
+      "type": "text",
+      "headline": "Own the hard <u>call</u>.",
+      "sub": "Clear is kinder than hiding behind “we.”",
+      "size": 120
+    },
+    {
+      "type": "cta",
+      "headline": "Say it out loud before you say it for real.",
+      "sub": "Steady lets you practice the hard conversation first.",
+      "size": 78
+    }
+  ],
+  "bg": "cobalt",
+  "first_comment": "Steady is an app for saying the hard thing out loud before the real conversation: https://steadyyy.com"
+}
