@@ -1,0 +1,62 @@
+{
+  "key": "translator",
+  "series": "Manager translator",
+  "bg": "violet",
+  "caption": "A lot of manager stress is saying the soft version, then feeling resentful when they miss the real point.\n\nSave this for the next message you’re about to soften too much.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“Take another pass when you have a sec.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This still isn’t ready.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“We can chat about it sometime.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“This needs a real conversation soon.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "chat",
+      "messages": [
+        {
+          "who": "you",
+          "name": "You say",
+          "text": "“I just want to make sure we’re aligned.”"
+        },
+        {
+          "who": "them",
+          "name": "You mean",
+          "text": "“I need you to do it differently.”"
+        }
+      ],
+      "size": 54
+    },
+    {
+      "type": "text",
+      "headline": "Don’t make them <u>decode</u> you.",
+      "sub": "Soft words often create more stress, not less.",
+      "size": 100
+    }
+  ]
+}
