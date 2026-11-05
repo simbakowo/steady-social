@@ -1,0 +1,43 @@
+{
+  "channel": "linkedin",
+  "key": "side",
+  "series": "Side by side",
+  "caption": "You send a message after work and need something by tomorrow.\n\nA soft opener can make this worse, not better. If the work is truly needed soon, say that plainly and give a real fallback.\n\n“I need this tomorrow, so I’m sending it now.”\n\nWhat after-hours message do you dread sending most?\n\n#newmanager #leadership #management",
+  "slides": [
+    {
+      "type": "text",
+      "label": "After-hours ask",
+      "headline": "It’s late. You need something by tomorrow.",
+      "sub": "Your message sets the pressure level before they even reply.",
+      "size": 100
+    },
+    {
+      "type": "table",
+      "headline": "Late message",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“I need this tomorrow, so I’m sending it now.”",
+          "“No rush, but can you get this to me first thing?”"
+        ],
+        [
+          "“Please reply tonight if you can.”",
+          "“Please don’t feel like you need to reply tonight.”"
+        ],
+        [
+          "“If not, send it by noon tomorrow.”",
+          "“Sorry to bug you.”"
+        ]
+      ],
+      "size": 84
+    },
+    {
+      "type": "text",
+      "headline": "If it’s <u>urgent</u>, say it plainly and own the ask.",
+      "sub": "Mixed messages make people guess.",
+      "size": 100
+    }
+  ],
+  "bg": "plum"
+}
