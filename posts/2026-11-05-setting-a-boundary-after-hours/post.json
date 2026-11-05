@@ -1,0 +1,29 @@
+{
+  "key": "table",
+  "series": "Say this, not that",
+  "bg": "plum",
+  "caption": "If you answer late-night pings you don’t want, the pattern sets fast. Kind is better than available all the time.\n\nSave this for the next message you’re tempted to answer at 10 pm.\n\n#newmanager #firsttimemanager #leadership #managertips #feedback",
+  "slides": [
+    {
+      "type": "table",
+      "headline": "After-hours boundary",
+      "yes": "Sounds like this",
+      "no": "Not this",
+      "rows": [
+        [
+          "“I saw your Slack. I’ll look at this tomorrow morning.”",
+          "“I’m always here if you need me.”"
+        ],
+        [
+          "“If it’s urgent, call me. If not, email is fine.”",
+          "“Just message me anytime.”"
+        ],
+        [
+          "“I’m offline after work, so I won’t reply tonight.”",
+          "“Sorry, I’m bad at replying late.”"
+        ]
+      ],
+      "size": 84
+    }
+  ]
+}
