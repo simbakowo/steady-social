@@ -1,0 +1,30 @@
+{
+  "key": "rules",
+  "series": "Manager rules",
+  "bg": "sunset",
+  "caption": "Slow replies happen. A pattern is different, especially when other people are blocked waiting.\n\nSave this for the next time you need to say it plainly.\n\n#newmanager #firsttimemanager #leadership #managertips #peoplemanagement",
+  "slides": [
+    {
+      "type": "text",
+      "headline": "Manager rules for the person who keeps replying <u>late</u>.",
+      "size": 86
+    },
+    {
+      "type": "list",
+      "headline": "In that talk, do these four things.",
+      "items": [
+        "Name it: “Replies have been slow lately.”",
+        "Say the impact: “It slows other work down.”",
+        "Ask what’s getting in the way",
+        "Set the norm: “Reply by end of day.”"
+      ],
+      "size": 70
+    },
+    {
+      "type": "text",
+      "headline": "Don’t argue about whether they’re “busy.” Talk about what the team <u>needs</u>.",
+      "sub": "Kind, direct, and easy to act on.",
+      "size": 86
+    }
+  ]
+}
